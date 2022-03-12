@@ -10,7 +10,7 @@ colors = ''
 
 #Locates our text file of words  and prints error if missing.
 try:
-    with open("../../Desktop/words.txt") as f:
+    with open("words.txt") as f:
         for line in f:
             words_txt.append(line.strip())
 except FileNotFoundError:
