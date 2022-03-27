@@ -1,7 +1,5 @@
 # Author Name: Kylie Fauquher
-# Date: 3/11/2022
-# Program Name: Fauquher_WordleBuddy
-# Purpose: A litter helper to assist in all your Wordle needs. Enter in guess and Wordle Buddy will find the best words to use next.
+# Date: 3/2022
 
 words_txt = []
 guess = ''
