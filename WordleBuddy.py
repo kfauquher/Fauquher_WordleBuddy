@@ -1,6 +1,3 @@
-# Author Name: Kylie Fauquher
-# Date: 3/2022
-
 words_txt = []
 guess = ''
 colors = ''
